@@ -7,5 +7,5 @@ class Configuration(object):
     MAIL_SERVER = 'smtp.gmail.com'
     MAIL_PORT = 587
     MAIL_USE_TLS = True
-    MAIL_USERNAME = 'nurlantukenbayev@gmail.com'
-    MAIL_PASSWORD = 'scottparker2525'
+    MAIL_USERNAME = 'email_user'
+    MAIL_PASSWORD = 'email_password'
